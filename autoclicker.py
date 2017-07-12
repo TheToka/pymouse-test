@@ -13,7 +13,7 @@ i = 0
 
 
 while i < kol:
-	m.click(1100, 490, 1)
+	m.click(1100, 490, 1)#1 - lbm. 2 - rbm
 	sleep(0.01)
 	i += 1
 	print(str(i) + "/" + str(kol))
