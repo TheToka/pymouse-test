@@ -10,7 +10,7 @@ kol = input()
 
 m = PyMouse()
 i = 0
-
+#test t
 
 while i < kol:
 	m.click(1100, 490, 1)#1 - lbm. 2 - rbm
